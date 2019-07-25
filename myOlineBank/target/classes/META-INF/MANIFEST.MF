@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Built-By: lassalle
+Build-Jdk: 11.0.3
+Implementation-Title: myOlineBank
+Implementation-Version: 0.0.1-SNAPSHOT
+Implementation-Vendor-Id: com.simplon
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-boot
+ -starter-parent/myOlineBank
+Created-By: Maven Integration for Eclipse
+

@@ -1,0 +1,14 @@
+/home/lassalle/eclipse-workspace/myOlineBank/src/main/java/co/simplon/entities/CompteCourant.java
+/home/lassalle/eclipse-workspace/myOlineBank/src/main/java/co/simplon/dao/OperationRepository.java
+/home/lassalle/eclipse-workspace/myOlineBank/src/main/java/co/simplon/entities/Client.java
+/home/lassalle/eclipse-workspace/myOlineBank/src/main/java/co/simplon/entities/CompteEpargne.java
+/home/lassalle/eclipse-workspace/myOlineBank/src/main/java/co/simplon/entities/Compte.java
+/home/lassalle/eclipse-workspace/myOlineBank/src/main/java/co/simplon/metier/BanqueMetierImpl.java
+/home/lassalle/eclipse-workspace/myOlineBank/src/main/java/co/simplon/MyOlineBankApplication.java
+/home/lassalle/eclipse-workspace/myOlineBank/src/main/java/co/simplon/metier/IBanqueMetier.java
+/home/lassalle/eclipse-workspace/myOlineBank/src/main/java/co/simplon/entities/Retrait.java
+/home/lassalle/eclipse-workspace/myOlineBank/src/main/java/co/simplon/entities/Versement.java
+/home/lassalle/eclipse-workspace/myOlineBank/src/main/java/co/simplon/dao/CompteRepository.java
+/home/lassalle/eclipse-workspace/myOlineBank/src/main/java/co/simplon/entities/Operation.java
+/home/lassalle/eclipse-workspace/myOlineBank/src/main/java/co/simplon/web/BanqueController.java
+/home/lassalle/eclipse-workspace/myOlineBank/src/main/java/co/simplon/dao/ClientRepository.java
